@@ -3,9 +3,8 @@
 #### Author - Himanshu Maheshwari
 
 This is a web scraper made in python and output the result in a csv file. It scrapes: 
- https://www.amazon.in/gp/bestsellers/books/ 
- 
- https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/  
+- https://www.amazon.in/gp/bestsellers/books/ 
+- https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/  
 
 #### Requirments
 - request library in python
